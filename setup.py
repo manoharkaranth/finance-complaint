@@ -9,6 +9,7 @@ DESRCIPTION = "This is a sample for industry ready solution"
 
 REQUIREMENT_FILE_NAME = "requirements.txt"
 
+
 HYPHEN_E_DOT = "-e ."
 
 
